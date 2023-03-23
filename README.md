@@ -1,6 +1,11 @@
 # xero-project-numbers
 Auto assign a project number to each new project in Xero, using Google Sheets to increment.
 
+Sometimes we need a way to simply and clearly organise projects based on an overall project ID, and the QU number is not suitable because a given project's lifetime might span multiple quotes. 
+
+Since Xero doesn't have this functionality on its own, my workaround is to prepend a project number to the project name. 
+
+
 
 ## Getting started
 
