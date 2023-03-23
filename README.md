@@ -5,6 +5,7 @@ Sometimes we need a way to simply and clearly organise projects based on an over
 
 Since Xero doesn't have this functionality on its own, my workaround is to prepend a project number to the project name, and I automate that through Apps Script and a Google Sheet to keep track. You can create a project in Xero as normal, and then in the background this script will add the project number, on an interval defined by a trigger. Depending on how soon after creating a project you need that number, you can set the trigger to run anywhere from every minute to once a week or so.
 
+![image](https://user-images.githubusercontent.com/6201433/227101598-8087084f-b8d2-4f6c-98df-a1cc78f376df.png)
 
 
 ## Getting started
